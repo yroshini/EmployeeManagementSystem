@@ -63,10 +63,11 @@ A full-featured web-based Employee Management System built using **Spring Boot**
 
 
 ---
+### 👩‍💻 Developed By
 
-##  Developed By 👩‍💻
-Roshini Yajjavarapu
-📧 roshini.ece2024.rce@gmail.com
-🎓 B.Tech (Electronics & Communication Engineering)
-🌐 [LinkedIn](https://www.linkedin.com/in/roshini-y-291905253/)
-🌍 Passionate about Full Stack Development & Software Engineering
+**Roshini Yajjavarapu**  
+📧 *roshini.ece2024.rce@gmail.com*  
+🎓 *B.Tech (Electronics & Communication Engineering)*  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/roshini-y-291905253/)  
+🌍 *Passionate about Full Stack Development & Software Engineering*
+
