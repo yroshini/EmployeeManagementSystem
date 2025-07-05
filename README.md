@@ -6,8 +6,7 @@ A full-featured web-based Employee Management System built using **Spring Boot**
 
 ## 📽️ Project Demo
 
-📺 [Click here to watch the demo video](https://drive.google.com/your-video-link-here)  
-*(Replace this with your actual Google Drive sharable link)*
+📺 [Click here to watch the demo video]((https://drive.google.com/file/d/1t-zQaxhdLjyyCOWZjmm7Zx1A7zqpTzAJ/view?usp=drive_link))  
 
 ---
 
