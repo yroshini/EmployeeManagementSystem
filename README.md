@@ -12,15 +12,15 @@ A full-featured web-based Employee Management System built using **Spring Boot**
 
 ## ✨ Features
 
-- ✅ Add New Employees
-- ✅ Update Existing Employees
-- ✅ Delete Employees
-- ✅ View All Employee Records
-- ✅ Admin Login (Spring Security)
-- ✅ JSP Pages for UI
-- ✅ MVC Architecture with Service & Repository layers
-- ✅ MySQL Database Integration
-- ✅ Form validation & Session handling
+✅ Add New Employees
+✅ Update Existing Employees
+✅ Delete Employees
+✅ View All Employee Records
+✅ Admin Login (Spring Security)
+✅ JSP Pages for UI
+✅ MVC Architecture with Service & Repository layers
+✅ MySQL Database Integration
+✅ Form validation & Session handling
 
 ---
 
