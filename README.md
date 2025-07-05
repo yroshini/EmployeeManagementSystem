@@ -42,31 +42,26 @@ A full-featured web-based Employee Management System built using **Spring Boot**
 
 ## 📸 Screenshots
 
-Below are some screenshots from the live running application:
+| 🏠 Home Page | 🔐 Login Page |
+|-------------|---------------|
+| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) |
 
-### 🔐 Login Page
-![Login](screenshots/login.png)
+| 🧾 Register Page | 🛡️ Security Login | 👥 Admin Dashboard |
+|------------------|------------------|---------------------|
+| ![Register](screenshots/register.png) | ![Security Login](screenshots/security-login.png) | ![Admin](screenshots/admin.png) |
 
-### 🏠 Home Page
-![Home](screenshots/home.png)
+| 🔍 Search Employees | 👁️ View All Employees | 👤 View Employee |
+|---------------------|------------------------|------------------|
+| ![Search](screenshots/search.png) | ![View All](screenshots/view-all-employees.png) | ![View](screenshots/view-employee.png) |
 
-### ➕ Add Employee
-![Add Employee](screenshots/add_employee.png)
+| ✏️ Edit Employee | 🧑 View Profile | ℹ️ About Us |
+|------------------|------------------|-------------|
+| ![Edit](screenshots/emp-edit.png) | ![Profile](screenshots/view-profile.png) | ![About Us](screenshots/about-us.png) |
 
-### 📋 View All Employees
-![Employee List](screenshots/view_employees.png)
+| 📞 Contact Us |
+|---------------|
+| ![Contact](screenshots/contact-us.png) |
 
-### ✏️ Update Employee
-![Update](screenshots/update_employee.png)
-
-### 🗑️ Delete Confirmation
-![Delete](screenshots/delete_confirmation.png)
-
-### 🧾 Form Validation Example
-![Validation](screenshots/validation.png)
-
-<!-- Add more if you want -->
-*(Replace the image paths above like `screenshots/file_name.png` with your actual image names.)*
 
 ---
 
