@@ -3,10 +3,10 @@
 A full-featured web-based Employee Management System built using **Spring Boot**, **Spring MVC**, **Spring Data JPA**, **JSP/JSTL**, and **MySQL**. This application allows you to **add**, **update**, **view**, and **delete** employee details, with a secure **Spring Security-based login** system.
 
 ---
-
 ## 📽️ Project Demo
 
-📺 [Click here to watch the demo video]([https://drive.google.com/file/d/1t-zQaxhdLjyyCOWZjmm7Zx1A7zqpTzAJ/view?usp=drive_link])  
+📺 [Click here to watch the demo video](https://drive.google.com/file/d/1t-zQaxhdLjyyCOWZjmm7Zx1A7zqpTzAJ/view?usp=drive_link)
+
 
 ---
 
